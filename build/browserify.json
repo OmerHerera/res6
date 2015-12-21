@@ -1,0 +1,10 @@
+{
+  "dist":{
+    "options":{
+      "transform":[["babelify",{"presets": ["es2015", "react"]}]]
+    },
+    "files": {
+      "./bundle/app.js": ["./react_components/*.jsx"]
+    }
+  }
+}

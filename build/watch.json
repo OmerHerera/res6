@@ -1,0 +1,6 @@
+{
+  "scripts":{
+    "files":["./react_components/**.jsx"],
+    "tasks":["browserify"]
+  }
+}
