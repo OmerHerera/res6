@@ -17,4 +17,6 @@ The goal of the repos was to use ES6, BABEL together with react, nothing new her
 
 All the marvel data is fetched from MARVEL(currently cached into a file), using their open API, here is more about it, [MARVEL open API](http://developer.marvel.com/), the application was builded using [react](https://facebook.github.io/react/).
 
+Live Demo [here](http://omerherera.github.io/res6/)
+
 ENJOY
